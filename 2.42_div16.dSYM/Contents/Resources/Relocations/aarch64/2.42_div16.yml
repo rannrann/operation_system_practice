@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lanluo/Desktop/vscode/operation_system/2.42_div16'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5div16j, symObjAddr: 0x0, symBinAddr: 0x100003F2C, symSize: 0x20 }
+  - { offsetInCU: 0x2C79, offset: 0x2C79, size: 0x8, addend: 0x0, symName: __Z5div16j, symObjAddr: 0x0, symBinAddr: 0x100003F2C, symSize: 0x20 }
+  - { offsetInCU: 0x2CA5, offset: 0x2CA5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x20, symBinAddr: 0x100003F4C, symSize: 0x48 }
+...
