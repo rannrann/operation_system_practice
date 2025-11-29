@@ -1,0 +1,4 @@
+#define POS_INFINITY (double)(1.0/0)
+#define NEG_INFINITY (double)(1.0/-0)
+#define NEG_ZERO (double)-0.0
+
