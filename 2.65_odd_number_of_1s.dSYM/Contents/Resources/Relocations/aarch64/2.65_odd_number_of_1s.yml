@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lanluo/Desktop/vscode/operation_system/2.65_odd_number_of_1s'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z8odd_onesj, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0xA4 }
+  - { offsetInCU: 0x2C79, offset: 0x2C79, size: 0x8, addend: 0x0, symName: __Z8odd_onesj, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0xA4 }
+  - { offsetInCU: 0x2CCF, offset: 0x2CCF, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xA4, symBinAddr: 0x100003F54, symSize: 0x40 }
+...
